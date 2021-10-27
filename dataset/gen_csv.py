@@ -11,7 +11,6 @@ datasets = os.listdir('./train')
 print('-----')
 print('total {} datasets'.format(len(datasets)))
 print('-----')
-
 all_images = []
 
 for dataset in datasets:
